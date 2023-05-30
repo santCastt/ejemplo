@@ -8,3 +8,11 @@ titulo nivel 1
 4. elemento4
 
 ejemplo[link]
+`esto es un bloque de código`
+```
+esto es 
+unh 
+bloque de codigo
+```
+
+
